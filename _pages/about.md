@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 This is the front page of my website.
-[my website] (kagood.github.io)
+
+[my website](kagood.github.io)
