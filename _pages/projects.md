@@ -33,19 +33,18 @@ redirect_from:
 </head>
 <body>
 
-<h2>Three Equal Columns</h2>
-
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
+    <h2>Project 1</h2>
     <p>Some text..</p>
+    <img src="https://kagood.github.io/images/profile.png" alt="picture" border=3 height=100 width=100></img>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
+    <h2>Project 2</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
+    <h2>Project 3</h2>
     <p>Some text..</p>
   </div>
 </div>
