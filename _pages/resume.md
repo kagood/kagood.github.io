@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[to be updated]
+[Please click here for a PDF copy of my resume](https://kagood.github.io/files/Kayla_Good_Resume_2022-10-24.pdf) :)
