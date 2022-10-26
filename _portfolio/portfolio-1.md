@@ -1,6 +1,6 @@
 ---
 title: "How do we develop and manage reputational concerns about seeming 'smart'?"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/reputation_icon.png' width="500" height="300">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/reputation_icon.png'>"
 collection: portfolio
 ---
 
