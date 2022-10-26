@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
+title: "What beliefs drive parents to engage in intrusive or 'helicopter' parenting?"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/parenting_icon.png'>"
 collection: portfolio
 ---
 
