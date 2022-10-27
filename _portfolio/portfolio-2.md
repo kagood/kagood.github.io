@@ -16,7 +16,7 @@ In a pre-registered study, we probed these beliefs among parents of adolescents 
       height="600"
       style="display: block; margin: 0 auto" />
 
-<figcaption style="display: block; margin: 0 auto; font-family: Helvetica"><b>The more parents believed that they need to intervene to solve problems for even college-aged children, the more they agreed with using intrusive, “high-intervention” practices (e.g., doing school projects for their children) and the less they agreed with using autonomy-promoting, “low-intervention” practices with adolescents (ps < .001).
+<figcaption style="display: block; margin: 0 auto; font-family: Helvetica"><b>The more parents believed that they need to intervene to solve problems for even college-aged children, the more they agreed with using intrusive, “high-intervention” practices (e.g., doing school projects for their children) and the less they agreed with using autonomy-promoting, “low-intervention” practices with adolescents (<i>p</i>s < .001).
 </b>
 </figcaption>
 
