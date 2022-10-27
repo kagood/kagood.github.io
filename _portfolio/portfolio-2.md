@@ -16,7 +16,7 @@ In a pre-registered study, we probed these beliefs among parents of adolescents 
       height="600"
       style="display: block; margin: 0 auto" />
 
-<figcaption style="display: block; margin: 0 auto"><b>Fig caption</b>
+<figcaption style="display: block; margin: 0 auto; font-family: Arial"><b>Fig caption</b>
 </figcaption>
 
 </figure>
