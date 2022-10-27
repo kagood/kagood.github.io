@@ -1,6 +1,6 @@
 ---
 title: "What beliefs drive parents to engage in 'helicopter' parenting practices?"
-excerpt: "Even when well-intended, intrusive or 'helicopter' parenting practices, such as completing homework assignments for one's child instead of letting them do it themselves, can be damaging to kids' motivation. Why do parents engage in these practices? And what messages might these practices communicate to children about their abilities?<br/><br/><img src='/images/parenting_icon.png' style="display: block; margin: 0 auto">"
+excerpt: "Even when well-intended, intrusive or 'helicopter' parenting practices, such as completing homework assignments for one's child instead of letting them do it themselves, can be damaging to kids' motivation. Why do parents engage in these practices? And what messages might these practices communicate to children about their abilities?<br/><br/><img src='/images/parenting_icon.png'>"
 collection: portfolio
 ---
 Parents play a critical role in fostering (or hindering) their children’s motivation to achieve. When parents intervene only when needed, children can thrive; when parents “helicopter,” or intervene excessively, children may persist less and become overly dependent.
