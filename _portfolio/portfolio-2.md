@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Parents play a critical role in fostering (or hindering) their children’s motivation to achieve. When parents intervene only when needed, children can thrive; when parents “helicopter,” or intervene excessively, children may persist less and become overly dependent.
 
-Here we explore a belief that might drive these influential parenting practices: the belief that strong parental intervention is necessary for a child’s success.
+In collaboration with my PhD advisors, Drs. Carol Dweck and Ellen Markman, I explored a belief that might drive these influential parenting practices: the belief that strong parental intervention is necessary for a child’s success.
 
 In a pre-registered study, we probed these beliefs among parents of adolescents and found that the more parents endorsed the general belief that parents need to intervene to solve problems for even adult children, the more they later agreed with specific high-intervention practices targeted at adolescents’ achievement (e.g., doing a school project for one’s adolescent child).
 
