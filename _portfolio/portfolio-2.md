@@ -27,3 +27,5 @@ We found that the more parents endorsed the general belief that parents need to 
 </figure>
 
 In follow-up studies, we explored whether parents who believe that they need to intervene for their child to be successful would still endorse high-intervention, helicoptering practices in cases where a child was already excelling academically. Surprisingly, we found that those who most strongly believed that parents need to intervene thought that high-intervention practices were appropriate regardless of whether a child had consistently performed well or poorly in the past. This robust relationship towards these beliefs as a target for parental education programs and other efforts aimed at encouraging a more autonomy-supportive parenting approach.
+
+For a full write-up of this project, click [here](https://kagood.github.io/files/apa_fyp_report_copy.pdf)!
