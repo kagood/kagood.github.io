@@ -4,4 +4,4 @@ excerpt: "When do we begin having reputational concerns, particularly around wan
 collection: portfolio
 ---
 
-<img src='/images/reputation_icon.png'>
+Coming soon!
