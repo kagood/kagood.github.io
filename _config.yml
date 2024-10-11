@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kayla Good"
   avatar           : "profile.png"
-  bio              : "Data analyst & behavioral research scientist | she/her 🌈"
-  location         : "Stanford, CA"
+  bio              : "Data analyst & behavioral research scientist | PhD in Psychology (Stanford) | she/her 🌈"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UY-vcWAAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-1606-0855"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
