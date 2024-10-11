@@ -1,6 +1,6 @@
 ---
 title: "The developmental origins of reputation management"
-excerpt: "When do we begin having reputational concerns, particularly around wanting others to think we are 'smart'? How do such concerns influence our behavior? And how might our perceptions of what others believe about 'smartness' (for example, whether others think someone can get smarter by working hard) shape our reputation management strategies?<br/><br/><img src='/images/reputation_icon.png'>"
+excerpt: "From a young age, we care about what people think of us. We want those around us to think that we're smart, kind, generous, etc. But when do kids begin to recognize that *others'* behavior might be driven by reputational concerns?<br/><br/><img src='/images/reputation_icon.png'>"
 collection: portfolio
 ---
 
