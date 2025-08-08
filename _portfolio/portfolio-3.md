@@ -4,6 +4,6 @@ excerpt: "Decades of research have found that the explicit feedback (e.g., prais
 collection: portfolio
 ---
 
-<div style='text-align: center;'>
+<div style='text-align: center; padding-top: 20px;'>
     <video controls src='https://d3hvnguarup3h9.cloudfront.net/dissertation_final.mp4' cover='https://d3hvnguarup3h9.cloudfront.net/dissertation_final_cover.png' width='700' style='display: inline-block;'></video>
 </div>
