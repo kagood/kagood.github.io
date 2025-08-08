@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a graduate researcher in Psychology at Stanford University, advised by Drs. [Ellen Markman](https://profiles.stanford.edu/ellen-markman) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck). My research broadly focuses on how our social context influences our motivation to achieve.
+Hello! My name is Kayla - thanks for visiting my site!
 
-I am passionate about translating my findings into actionable insights, and I hope to further leverage my research skills to have real-world impact on users' experiences.
+I'm a behavioral research scientist and data analyst with 8 years of experience leading end-to-end research on learning, motivation, and decision-making. I love digging into data and discovering the stories it has to tell.
