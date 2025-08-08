@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Kayla - thanks for visiting my site!
-
-I'm a behavioral research scientist and data analyst with 8 years of experience leading end-to-end research on learning, motivation, and decision-making. I love digging into data and discovering the stories it has to tell.
+Hello! My name is Kayla. I'm a behavioral research scientist and data analyst with 8 years of experience leading end-to-end research on learning, motivation, and decision-making. I love digging into data and discovering the stories it has to tell.

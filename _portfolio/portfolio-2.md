@@ -1,6 +1,6 @@
 ---
 title: "What beliefs drive parents to engage in intrusive parenting practices?"
-excerpt: "Even when well-intended, intrusive or 'helicopter' parenting practices, such as completing homework assignments for one's child instead of letting them do it themselves, can be damaging to kids' motivation. Why do parents engage in these practices?<br/><br/><img src='/images/parenting_icon.png'>"
+excerpt: "Even when well-intended, intrusive or 'helicopter' parenting practices, such as completing homework assignments for one's child instead of letting them do it themselves, can be damaging to kids' motivation. Why do parents engage in these practices?"
 collection: portfolio
 ---
 Parents play a critical role in fostering (or hindering) their children’s motivation to achieve. When parents intervene only when needed, children can thrive; when parents “helicopter,” or intervene excessively, children may persist less at difficult tasks and become overly dependent.

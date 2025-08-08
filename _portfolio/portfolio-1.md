@@ -1,6 +1,6 @@
 ---
 title: "The developmental origins of reputation management"
-excerpt: "From a young age, we care about what people think of us. We want those around us to think that we're smart, kind, generous, etc. But when do kids begin to recognize that *others'* behavior might be driven by reputational concerns?<br/><br/><img src='/images/reputation_icon.png'>"
+excerpt: "From a young age, we care about what people think of us. We want those around us to think that we're smart, kind, generous, etc. But when do kids begin to recognize that *others'* behavior might be driven by reputational concerns?"
 collection: portfolio
 ---
 
