@@ -3,6 +3,7 @@ title: "When wanting to look smart gets in the way of learning"
 excerpt: "From a young age, we care about what people think of us. We want to have a good reputation: we want those around us to think that we're smart, kind, generous, etc. But when do we begin to recognize that *others* might be driven by the same reputational concerns – and what are the implications for learning?"
 collection: portfolio
 permalink: /research/reputation_project/
+order: 2
 ---
 
 *Note: This project was in collaboration with Dr. Alex Shaw (University of Chicago). You can read the full paper (published in Child Development) [here](https://kagood.github.io/files/Good_Shaw_CD_2022.pdf), and you can find our Scientific American article on the research [here](https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/).*

@@ -3,6 +3,7 @@ title: "How LLM presentational style affects users' learning"
 excerpt: "As people increasingly turn to LLMs to learn new information and skills, it is important to understand how the format of LLM responses – not just the content – might influence their learning and motivation."
 collection: portfolio
 permalink: /research/llm_motivation_project/
+order: 1
 ---
 
 *Note: This project was done during my graduate studies at Stanford in collaboration with Dr. Priyanka Carr and Dr. Carol Dweck.*

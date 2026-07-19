@@ -3,6 +3,7 @@ title: "When help becomes too much: What overhelping can convey"
 excerpt: "Help is ubiquitous in everyday life, yet it can be deceptively difficult to calibrate. Providing too little help can lead to unproductive struggle, while providing too much – or 'overhelping' – can undermine independence and genuine growth. What makes some forms of help empowering and others dejecting?"
 collection: portfolio
 permalink: /research/help_project/
+order: 3
 ---
 
 *Note: These projects were a part of my dissertation work at Stanford and were done in collaboration with my PhD advisors, Drs. Ellen Markman and Carol Dweck.*
