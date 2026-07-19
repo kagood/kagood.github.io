@@ -2,6 +2,7 @@
 title: "Talk: How parents' and teachers' help can send messages about children's abilities"
 excerpt: "Decades of research have found that the explicit feedback (e.g., praise) that parents and teachers give to students can strongly impact students' motivation and beliefs about their potential. But what might parents' and teachers' *actions* - including the help they give - convey to students about whether they're capable of succeeding?"
 collection: portfolio
+permalink: /research/dissertation_talk/
 ---
 
 <div style='text-align: center; padding-top: 20px;'>
